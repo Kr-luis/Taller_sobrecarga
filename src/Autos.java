@@ -1,5 +1,3 @@
-package Juego_Cartas;
-
 public class Autos {
     String modelo;
     String marca;

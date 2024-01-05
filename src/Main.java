@@ -73,12 +73,35 @@ public class Main {
 }
 */
 /*Ejemplo operacion matematica*/
-public class Main {
+/*public class Main {
     public static void main(String[] args){
-        OperacionesMatematicas sum1 = new OperacionesMatematicas(/*1, 2, 3, 1.2, 2.3*/);
+        OperacionesMatematicas sum1 = new OperacionesMatematicas(*//*1, 2, 3, 1.2, 2.3*//*);
         sum1.Suma(1,5);
         sum1.Suma(1,4,3);
         sum1.Suma(2.4,23.8);
     }
-}
+}*/
 
+/*
+class Main {
+    public static void main(String[] args) {
+        Animal animal = new Animal();
+        Perro perro = new Perro();
+        Gato gato = new Gato();
+        animal.hacerSonido(); // Imprime "Haciendo sonido genérico"
+        perro.hacerSonido(); // Imprime "Gua, gua"
+        gato.hacerSonido(); // Imprime miau. miau
+    }
+}*/
+/*class Main {
+    public static void main(String[] args){
+        Vehiculos vehiculo = new Vehiculos();
+        Coche coche = new Coche();
+        bicicleta bici = new bicicleta();
+        Avion avion = new Avion();
+        vehiculo.acelerar();
+        coche.acelerar();
+        bici.acelerar();
+        avion.acelerar();
+    }
+}*/
